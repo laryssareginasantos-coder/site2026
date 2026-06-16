@@ -16,7 +16,7 @@ body {
 /* Estilo do Cabeçalho */
 header {
     background-color: #4A90E2; /* Cor azul moderna */
-    color: white;
+    color: rgb(232, 221, 236);
     text-align: center;
     padding: 40px 20px;
 }
@@ -43,7 +43,7 @@ header h1 {
 }
 
 .card h2 {
-    color: #4A90E2;
+    color: #9a12e9;
     margin-bottom: 15px;
 }
 
@@ -63,14 +63,14 @@ button {
 
 /* Efeito quando passa o mouse por cima do botão (Hover) */
 button:hover {
-    background-color: #27AE60; /* Verde mais escuro */
+    background-color: #06cae4; /* Verde mais escuro */
 }
 
 /* Estilo do Rodapé */
 footer {
     text-align: center;
     padding: 20px;
-    color: #777;
+    color: #d80f4b;
     font-size: 0.9rem;
     margin-top: 40px;
 }
